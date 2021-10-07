@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\LTI\\.nuget\\packages\\": {}
+    "C:\\Users\\LTIUser\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LTI\\AmaStore\\Lib\\Lib.csproj",
+      "projectUniqueName": "C:\\Users\\LTIUser\\AmaStore\\Lib\\Lib.csproj",
       "projectName": "Lib",
-      "projectPath": "C:\\Users\\LTI\\AmaStore\\Lib\\Lib.csproj",
-      "packagesPath": "C:\\Users\\LTI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LTI\\AmaStore\\Lib\\obj\\",
+      "projectPath": "C:\\Users\\LTIUser\\AmaStore\\Lib\\Lib.csproj",
+      "packagesPath": "C:\\Users\\LTIUser\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\LTIUser\\AmaStore\\Lib\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\LTI\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\LTIUser\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"

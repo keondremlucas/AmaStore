@@ -22,3 +22,15 @@ C:\Users\LTI\AmaStore\Lib\obj\Debug\net5.0\Lib.csproj.CoreCompileInputs.cache
 C:\Users\LTI\AmaStore\Lib\obj\Debug\net5.0\Lib.dll
 C:\Users\LTI\AmaStore\Lib\obj\Debug\net5.0\ref\Lib.dll
 C:\Users\LTI\AmaStore\Lib\obj\Debug\net5.0\Lib.pdb
+C:\Users\LTIUser\AmaStore\Lib\bin\Debug\net5.0\Lib.deps.json
+C:\Users\LTIUser\AmaStore\Lib\bin\Debug\net5.0\Lib.dll
+C:\Users\LTIUser\AmaStore\Lib\bin\Debug\net5.0\ref\Lib.dll
+C:\Users\LTIUser\AmaStore\Lib\bin\Debug\net5.0\Lib.pdb
+C:\Users\LTIUser\AmaStore\Lib\obj\Debug\net5.0\Lib.csproj.AssemblyReference.cache
+C:\Users\LTIUser\AmaStore\Lib\obj\Debug\net5.0\Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LTIUser\AmaStore\Lib\obj\Debug\net5.0\Lib.AssemblyInfoInputs.cache
+C:\Users\LTIUser\AmaStore\Lib\obj\Debug\net5.0\Lib.AssemblyInfo.cs
+C:\Users\LTIUser\AmaStore\Lib\obj\Debug\net5.0\Lib.csproj.CoreCompileInputs.cache
+C:\Users\LTIUser\AmaStore\Lib\obj\Debug\net5.0\Lib.dll
+C:\Users\LTIUser\AmaStore\Lib\obj\Debug\net5.0\ref\Lib.dll
+C:\Users\LTIUser\AmaStore\Lib\obj\Debug\net5.0\Lib.pdb

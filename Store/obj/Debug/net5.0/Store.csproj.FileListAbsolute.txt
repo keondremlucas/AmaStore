@@ -116,3 +116,13 @@ C:\Users\LTI\AmaStore\Store\obj\Debug\net5.0\Store.dll
 C:\Users\LTI\AmaStore\Store\obj\Debug\net5.0\ref\Store.dll
 C:\Users\LTI\AmaStore\Store\obj\Debug\net5.0\Store.pdb
 C:\Users\LTI\AmaStore\Store\obj\Debug\net5.0\Store.genruntimeconfig.cache
+C:\Users\LTIUser\AmaStore\Store\obj\Debug\net5.0\Store.csproj.AssemblyReference.cache
+C:\Users\LTIUser\AmaStore\Store\obj\Debug\net5.0\Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LTIUser\AmaStore\Store\obj\Debug\net5.0\Store.AssemblyInfoInputs.cache
+C:\Users\LTIUser\AmaStore\Store\obj\Debug\net5.0\Store.AssemblyInfo.cs
+C:\Users\LTIUser\AmaStore\Store\obj\Debug\net5.0\Store.csproj.CoreCompileInputs.cache
+C:\Users\LTIUser\AmaStore\Store\obj\Debug\net5.0\Store.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LTIUser\AmaStore\Store\obj\Debug\net5.0\Store.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LTIUser\AmaStore\Store\obj\Debug\net5.0\Store.dll
+C:\Users\LTIUser\AmaStore\Store\obj\Debug\net5.0\ref\Store.dll
+C:\Users\LTIUser\AmaStore\Store\obj\Debug\net5.0\Store.pdb

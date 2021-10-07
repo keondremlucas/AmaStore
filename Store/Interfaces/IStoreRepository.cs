@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using System.Threading.Tasks;
 
 namespace Store
 {
@@ -12,7 +13,8 @@ namespace Store
     Task GetInventoryAsync();
     Task TransactionHistory(UserId userId);
     Task<IActionResult> SendMessagesAsync(Message message);
-    Task<IEnumerable<dynamic>> GetMessagesAsync(Message message)
-;
+    Task<IEnumerable<dynamic>> GetMessagesAsync(Message message);
+
+    Task SaveAsync();
   }
 }

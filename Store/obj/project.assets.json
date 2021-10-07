@@ -1453,19 +1453,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\LTI\\.nuget\\packages\\": {}
+    "C:\\Users\\LTIUser\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LTI\\AmaStore\\Store\\Store.csproj",
+      "projectUniqueName": "C:\\Users\\LTIUser\\AmaStore\\Store\\Store.csproj",
       "projectName": "Store",
-      "projectPath": "C:\\Users\\LTI\\AmaStore\\Store\\Store.csproj",
-      "packagesPath": "C:\\Users\\LTI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LTI\\AmaStore\\Store\\obj\\",
+      "projectPath": "C:\\Users\\LTIUser\\AmaStore\\Store\\Store.csproj",
+      "packagesPath": "C:\\Users\\LTIUser\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\LTIUser\\AmaStore\\Store\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\LTI\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\LTIUser\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -1477,8 +1477,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\LTI\\AmaStore\\Lib\\Lib.csproj": {
-              "projectPath": "C:\\Users\\LTI\\AmaStore\\Lib\\Lib.csproj"
+            "C:\\Users\\LTIUser\\AmaStore\\Lib\\Lib.csproj": {
+              "projectPath": "C:\\Users\\LTIUser\\AmaStore\\Lib\\Lib.csproj"
             }
           }
         }
