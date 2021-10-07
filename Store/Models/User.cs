@@ -1,13 +1,32 @@
 using System;
 using System.Collections.Generic;
+using System.Text.Json.Serialization;
+
 namespace Store
 {
-    public class Cart
+    public class User
     {
         public int Id {get; set;}
-        public List<string> Products {get; set;}
-        public int Size {get; set;}
-        public decimal Cost {get; set;}
+        public string Name {get; set;}
+        [JsonIgnore]
+        public List<Message> Messages {get; set;} = new List<Message>();
+        [JsonIgnore]
+        public Cart Cart {get; set;} = new Cart();
+        public User()
+        {
 
+        }
+
+        public User(UserDto user)
+        {
+            Id = new();
+            Name = user.Name;
+          
+        }
+
+        
     }
+    
+
+    
 }

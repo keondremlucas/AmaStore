@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q9R6OLwnCn6bo9eOkLsDXulZav6lRAiT6aG3z/0hKz+dFDI2zJyGsoHgv7k9MgAORQiyrMfZ9XpDgKfmFpy+AQ==",
+  "dgSpecHash": "x3IU8AksIwVUfDYlrJvrE6YUYNzdecV1KvwDOYImPirLHX8eyxOhm9Fefrbj1SAYDJ/fG1tS7CPsBsaohP7hTQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\lucas\\Amastore\\Warehouse\\Warehouse.csproj",
+  "projectFilePath": "C:\\Users\\lucas\\Amastore\\Warehouse\\Warehouse.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucas\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\lucas\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

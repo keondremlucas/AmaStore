@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\lucas\\Amastore\\Lib\\Lib.csproj": {}
+    "C:\\Users\\lucas\\Amastore\\Lib\\Lib.csproj": {}
   },
   "projects": {
-    "c:\\Users\\lucas\\Amastore\\Lib\\Lib.csproj": {
+    "C:\\Users\\lucas\\Amastore\\Lib\\Lib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\lucas\\Amastore\\Lib\\Lib.csproj",
+        "projectUniqueName": "C:\\Users\\lucas\\Amastore\\Lib\\Lib.csproj",
         "projectName": "Lib",
-        "projectPath": "c:\\Users\\lucas\\Amastore\\Lib\\Lib.csproj",
+        "projectPath": "C:\\Users\\lucas\\Amastore\\Lib\\Lib.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\lucas\\Amastore\\Lib\\obj\\",
+        "outputPath": "C:\\Users\\lucas\\Amastore\\Lib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config"

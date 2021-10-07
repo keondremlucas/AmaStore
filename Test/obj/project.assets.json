@@ -7901,11 +7901,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\lucas\\Amastore\\Test\\Test.csproj",
+      "projectUniqueName": "C:\\Users\\lucas\\Amastore\\Test\\Test.csproj",
       "projectName": "Test",
-      "projectPath": "c:\\Users\\lucas\\Amastore\\Test\\Test.csproj",
+      "projectPath": "C:\\Users\\lucas\\Amastore\\Test\\Test.csproj",
       "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\lucas\\Amastore\\Test\\obj\\",
+      "outputPath": "C:\\Users\\lucas\\Amastore\\Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -7920,11 +7920,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "c:\\Users\\lucas\\Amastore\\Store\\Store.csproj": {
-              "projectPath": "c:\\Users\\lucas\\Amastore\\Store\\Store.csproj"
+            "C:\\Users\\lucas\\Amastore\\Store\\Store.csproj": {
+              "projectPath": "C:\\Users\\lucas\\Amastore\\Store\\Store.csproj"
             },
-            "c:\\Users\\lucas\\Amastore\\Warehouse\\Warehouse.csproj": {
-              "projectPath": "c:\\Users\\lucas\\Amastore\\Warehouse\\Warehouse.csproj"
+            "C:\\Users\\lucas\\Amastore\\Warehouse\\Warehouse.csproj": {
+              "projectPath": "C:\\Users\\lucas\\Amastore\\Warehouse\\Warehouse.csproj"
             }
           }
         }

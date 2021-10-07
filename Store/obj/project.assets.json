@@ -1458,11 +1458,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\lucas\\Amastore\\Store\\Store.csproj",
+      "projectUniqueName": "C:\\Users\\lucas\\Amastore\\Store\\Store.csproj",
       "projectName": "Store",
-      "projectPath": "c:\\Users\\lucas\\Amastore\\Store\\Store.csproj",
+      "projectPath": "C:\\Users\\lucas\\Amastore\\Store\\Store.csproj",
       "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\lucas\\Amastore\\Store\\obj\\",
+      "outputPath": "C:\\Users\\lucas\\Amastore\\Store\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1477,8 +1477,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "c:\\Users\\lucas\\Amastore\\Lib\\Lib.csproj": {
-              "projectPath": "c:\\Users\\lucas\\Amastore\\Lib\\Lib.csproj"
+            "C:\\Users\\lucas\\Amastore\\Lib\\Lib.csproj": {
+              "projectPath": "C:\\Users\\lucas\\Amastore\\Lib\\Lib.csproj"
             }
           }
         }

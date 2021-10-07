@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AmQFbn+tQOr3Dye8xX6L6Z0YNwN8271kpnae6V54B3TnTekMG2OcQkaS7GnEKgXxQbtdGEijZ+VRYX3BKqJ+qQ==",
+  "dgSpecHash": "WXwninaOLxN5HQBKPwMI1Fup2lEoiz59zaE9IUUTqgG/zFWWsM6xRXTxWY4pPGVjAF5fhepca2QKpKt4nuZvVQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\lucas\\Amastore\\Lib\\Lib.csproj",
+  "projectFilePath": "C:\\Users\\lucas\\Amastore\\Lib\\Lib.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
