@@ -15,6 +15,11 @@ namespace Store
              ProductName = productDto.ProductName;
              Cost = productDto.Cost;
          }
+
+         public override string ToString(){
+             var returnval=$"Product Name: {ProductName} Product Cost: ${Cost}";
+             return returnval;
+         }
     }
 
 }

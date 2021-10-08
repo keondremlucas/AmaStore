@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LTI\\AmaStore\\Test\\Test.csproj": {}
+    "c:\\Users\\LTIUser\\AmaStore\\Test\\Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LTI\\AmaStore\\Lib\\Lib.csproj": {
+    "c:\\Users\\LTIUser\\AmaStore\\Lib\\Lib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LTI\\AmaStore\\Lib\\Lib.csproj",
+        "projectUniqueName": "c:\\Users\\LTIUser\\AmaStore\\Lib\\Lib.csproj",
         "projectName": "Lib",
-        "projectPath": "C:\\Users\\LTI\\AmaStore\\Lib\\Lib.csproj",
-        "packagesPath": "C:\\Users\\LTI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LTI\\AmaStore\\Lib\\obj\\",
+        "projectPath": "c:\\Users\\LTIUser\\AmaStore\\Lib\\Lib.csproj",
+        "packagesPath": "C:\\Users\\LTIUser\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\LTIUser\\AmaStore\\Lib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\LTI\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\LTIUser\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -56,17 +56,17 @@
         }
       }
     },
-    "C:\\Users\\LTI\\AmaStore\\Store\\Store.csproj": {
+    "c:\\Users\\LTIUser\\AmaStore\\Store\\Store.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LTI\\AmaStore\\Store\\Store.csproj",
+        "projectUniqueName": "c:\\Users\\LTIUser\\AmaStore\\Store\\Store.csproj",
         "projectName": "Store",
-        "projectPath": "C:\\Users\\LTI\\AmaStore\\Store\\Store.csproj",
-        "packagesPath": "C:\\Users\\LTI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LTI\\AmaStore\\Store\\obj\\",
+        "projectPath": "c:\\Users\\LTIUser\\AmaStore\\Store\\Store.csproj",
+        "packagesPath": "C:\\Users\\LTIUser\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\LTIUser\\AmaStore\\Store\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\LTI\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\LTIUser\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -78,8 +78,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\LTI\\AmaStore\\Lib\\Lib.csproj": {
-                "projectPath": "C:\\Users\\LTI\\AmaStore\\Lib\\Lib.csproj"
+              "c:\\Users\\LTIUser\\AmaStore\\Lib\\Lib.csproj": {
+                "projectPath": "c:\\Users\\LTIUser\\AmaStore\\Lib\\Lib.csproj"
               }
             }
           }
@@ -139,17 +139,17 @@
         }
       }
     },
-    "C:\\Users\\LTI\\AmaStore\\Test\\Test.csproj": {
+    "c:\\Users\\LTIUser\\AmaStore\\Test\\Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LTI\\AmaStore\\Test\\Test.csproj",
+        "projectUniqueName": "c:\\Users\\LTIUser\\AmaStore\\Test\\Test.csproj",
         "projectName": "Test",
-        "projectPath": "C:\\Users\\LTI\\AmaStore\\Test\\Test.csproj",
-        "packagesPath": "C:\\Users\\LTI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LTI\\AmaStore\\Test\\obj\\",
+        "projectPath": "c:\\Users\\LTIUser\\AmaStore\\Test\\Test.csproj",
+        "packagesPath": "C:\\Users\\LTIUser\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\LTIUser\\AmaStore\\Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\LTI\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\LTIUser\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -161,11 +161,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\LTI\\AmaStore\\Store\\Store.csproj": {
-                "projectPath": "C:\\Users\\LTI\\AmaStore\\Store\\Store.csproj"
+              "c:\\Users\\LTIUser\\AmaStore\\Store\\Store.csproj": {
+                "projectPath": "c:\\Users\\LTIUser\\AmaStore\\Store\\Store.csproj"
               },
-              "C:\\Users\\LTI\\AmaStore\\Warehouse\\Warehouse.csproj": {
-                "projectPath": "C:\\Users\\LTI\\AmaStore\\Warehouse\\Warehouse.csproj"
+              "c:\\Users\\LTIUser\\AmaStore\\Warehouse\\Warehouse.csproj": {
+                "projectPath": "c:\\Users\\LTIUser\\AmaStore\\Warehouse\\Warehouse.csproj"
               }
             }
           }
@@ -228,17 +228,17 @@
         }
       }
     },
-    "C:\\Users\\LTI\\AmaStore\\Warehouse\\Warehouse.csproj": {
+    "c:\\Users\\LTIUser\\AmaStore\\Warehouse\\Warehouse.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LTI\\AmaStore\\Warehouse\\Warehouse.csproj",
+        "projectUniqueName": "c:\\Users\\LTIUser\\AmaStore\\Warehouse\\Warehouse.csproj",
         "projectName": "Warehouse",
-        "projectPath": "C:\\Users\\LTI\\AmaStore\\Warehouse\\Warehouse.csproj",
-        "packagesPath": "C:\\Users\\LTI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LTI\\AmaStore\\Warehouse\\obj\\",
+        "projectPath": "c:\\Users\\LTIUser\\AmaStore\\Warehouse\\Warehouse.csproj",
+        "packagesPath": "C:\\Users\\LTIUser\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\LTIUser\\AmaStore\\Warehouse\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\LTI\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\LTIUser\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -250,8 +250,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\LTI\\AmaStore\\Lib\\Lib.csproj": {
-                "projectPath": "C:\\Users\\LTI\\AmaStore\\Lib\\Lib.csproj"
+              "c:\\Users\\LTIUser\\AmaStore\\Lib\\Lib.csproj": {
+                "projectPath": "c:\\Users\\LTIUser\\AmaStore\\Lib\\Lib.csproj"
               }
             }
           }

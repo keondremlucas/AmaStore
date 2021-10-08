@@ -44,7 +44,12 @@ namespace Store
       return Ok(productAdded.ProductName);
     }
 
+    [HttpGet("allproducts")]
+    public async Task<IActionResult> GetInventory(){
 
+      List<Product> products=await _repository.GetInventoryAsync() as List<Product>;
+      return Ok(products);
+    }
 
   }
 }

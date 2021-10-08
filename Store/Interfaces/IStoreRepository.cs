@@ -10,7 +10,7 @@ namespace Store
     Task<User> GetUserAsync(int userId);
     Task<Product> AddToCartAsync(int userId, int productId);
     // Task PurchaseCartAsync(int userId);
-    // Task GetInventoryAsync();
+    Task<IEnumerable<Product>> GetInventoryAsync();
     // Task TransactionHistory(int userId);
     // Task<IActionResult> SendMessagesAsync(Message message);
     // Task<IEnumerable<dynamic>> GetMessagesAsync(Message message);

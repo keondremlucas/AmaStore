@@ -50,6 +50,15 @@ namespace Store
       }
       return product;
     }
+
+    public async Task<IEnumerable<Product>> GetInventoryAsync(){
+      var client = new HttpClient();
+      List<Product>products=new();
+      var productsfound= await client.GetFromJsonAsync<List<Product>>($"http://localhost:5000/api/warehouse/products");
+
+      return productsfound;
+
+    }
     public async Task SaveAsync()
     {
       await _db.SaveChangesAsync();
