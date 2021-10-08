@@ -7896,19 +7896,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\LTIUser\\.nuget\\packages\\": {}
+    "C:\\Users\\lucas\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LTIUser\\AmaStore\\Test\\Test.csproj",
+      "projectUniqueName": "C:\\Users\\lucas\\Amastore\\Test\\Test.csproj",
       "projectName": "Test",
-      "projectPath": "C:\\Users\\LTIUser\\AmaStore\\Test\\Test.csproj",
-      "packagesPath": "C:\\Users\\LTIUser\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LTIUser\\AmaStore\\Test\\obj\\",
+      "projectPath": "C:\\Users\\lucas\\Amastore\\Test\\Test.csproj",
+      "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lucas\\Amastore\\Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\LTIUser\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -7920,11 +7920,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\LTIUser\\AmaStore\\Store\\Store.csproj": {
-              "projectPath": "C:\\Users\\LTIUser\\AmaStore\\Store\\Store.csproj"
+            "C:\\Users\\lucas\\Amastore\\Store\\Store.csproj": {
+              "projectPath": "C:\\Users\\lucas\\Amastore\\Store\\Store.csproj"
             },
-            "C:\\Users\\LTIUser\\AmaStore\\Warehouse\\Warehouse.csproj": {
-              "projectPath": "C:\\Users\\LTIUser\\AmaStore\\Warehouse\\Warehouse.csproj"
+            "C:\\Users\\lucas\\Amastore\\Warehouse\\Warehouse.csproj": {
+              "projectPath": "C:\\Users\\lucas\\Amastore\\Warehouse\\Warehouse.csproj"
             }
           }
         }
@@ -7983,7 +7983,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -38,6 +38,18 @@ namespace Warehouse
             return product.Quantity;
         }
 
+        public int CheckProductExists(Product product)
+        {
+            if(product == null)
+            {
+                return 1;
+            }
+            else
+            {
+                return 2;
+            }
+        }        
+
 
     }
 

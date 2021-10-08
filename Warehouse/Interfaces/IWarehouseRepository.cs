@@ -15,6 +15,8 @@ namespace Warehouse
         Task SaveAsync();
         int CheckProductQuantity(Product product);
 
+        int CheckProductExists(Product product);
+
 
     }
 
