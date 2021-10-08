@@ -21,7 +21,7 @@ namespace Warehouse
         }
 
         [HttpPost("newproduct")]
-        public async Task<IActionResult> newproduct(ProductDto productDto)
+        public async Task<IActionResult> NewProduct(ProductDto productDto)
         {
 
             var product = new Product(productDto);

@@ -34,7 +34,7 @@ namespace Test
         public async Task ShouldCreateProduct()
         {
             var dto = new ProductDto() {ProductName = "Iphone", Cost = 500.00M, Weight = 7, Quantity = 1};
-            var result = await _controller.newproduct(dto);
+            var result = await _controller.NewProduct(dto);
             var createdActionResult = result as CreatedAtActionResult;
             createdActionResult.StatusCode.Should().Be(201);
             createdActionResult.ActionName.Should().Be("GetOneProduct");
