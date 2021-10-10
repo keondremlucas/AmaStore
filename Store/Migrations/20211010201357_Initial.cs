@@ -12,7 +12,6 @@ namespace Store.Migrations
                 {
                     Id = table.Column<int>(type: "INTEGER", nullable: false)
                         .Annotation("Sqlite:Autoincrement", true),
-                    Size = table.Column<int>(type: "INTEGER", nullable: false),
                     Cost = table.Column<decimal>(type: "TEXT", nullable: false)
                 },
                 constraints: table =>

@@ -37,10 +37,14 @@ namespace Store
       try
       {
         var newProductsAdded = await client.GetFromJsonAsync<ProductDto>($"http://localhost:5000/api/warehouse/product?productId={productId}");
-        product = new Product() {Id = newProductsAdded.Id, ProductName = newProductsAdded.ProductName, Cost = newProductsAdded.Cost};
+        product = new Product() {ProductName = newProductsAdded.ProductName, Cost = newProductsAdded.Cost};
+        
         var cartInfo = _db.Carts.Where(cart => cart.Id == userId).Include(c => c.Products).SingleOrDefault();
+        Console.WriteLine($"{cartInfo.Cost}");
         cartInfo.Products.Add(product);
         cartInfo.Cost += product.Cost;
+        Console.WriteLine($"{cartInfo.Cost}");
+        Console.WriteLine($"{cartInfo.Products.Count()}");
         await _db.AddAsync(product);
         await _db.SaveChangesAsync();
       }

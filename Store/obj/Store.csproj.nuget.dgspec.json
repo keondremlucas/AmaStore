@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LTIUser\\AmaStore\\Store\\Store.csproj": {}
+    "C:\\Users\\lucas\\Amastore\\Store\\Store.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LTIUser\\AmaStore\\Lib\\Lib.csproj": {
+    "C:\\Users\\lucas\\Amastore\\Lib\\Lib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LTIUser\\AmaStore\\Lib\\Lib.csproj",
+        "projectUniqueName": "C:\\Users\\lucas\\Amastore\\Lib\\Lib.csproj",
         "projectName": "Lib",
-        "projectPath": "C:\\Users\\LTIUser\\AmaStore\\Lib\\Lib.csproj",
-        "packagesPath": "C:\\Users\\LTIUser\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LTIUser\\AmaStore\\Lib\\obj\\",
+        "projectPath": "C:\\Users\\lucas\\Amastore\\Lib\\Lib.csproj",
+        "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lucas\\Amastore\\Lib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\LTIUser\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -52,21 +52,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\LTIUser\\AmaStore\\Store\\Store.csproj": {
+    "C:\\Users\\lucas\\Amastore\\Store\\Store.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LTIUser\\AmaStore\\Store\\Store.csproj",
+        "projectUniqueName": "C:\\Users\\lucas\\Amastore\\Store\\Store.csproj",
         "projectName": "Store",
-        "projectPath": "C:\\Users\\LTIUser\\AmaStore\\Store\\Store.csproj",
-        "packagesPath": "C:\\Users\\LTIUser\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LTIUser\\AmaStore\\Store\\obj\\",
+        "projectPath": "C:\\Users\\lucas\\Amastore\\Store\\Store.csproj",
+        "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lucas\\Amastore\\Store\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\LTIUser\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -78,8 +78,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\LTIUser\\AmaStore\\Lib\\Lib.csproj": {
-                "projectPath": "C:\\Users\\LTIUser\\AmaStore\\Lib\\Lib.csproj"
+              "C:\\Users\\lucas\\Amastore\\Lib\\Lib.csproj": {
+                "projectPath": "C:\\Users\\lucas\\Amastore\\Lib\\Lib.csproj"
               }
             }
           }
@@ -135,7 +135,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -9,7 +9,7 @@ using Store;
 namespace Store.Migrations
 {
     [DbContext(typeof(Database))]
-    [Migration("20211008191927_Initial")]
+    [Migration("20211010201357_Initial")]
     partial class Initial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -26,9 +26,6 @@ namespace Store.Migrations
 
                     b.Property<decimal>("Cost")
                         .HasColumnType("TEXT");
-
-                    b.Property<int>("Size")
-                        .HasColumnType("INTEGER");
 
                     b.HasKey("Id");
 
